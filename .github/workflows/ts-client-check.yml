@@ -1,3 +1,4 @@
+[![Check TS SDK is up-to-date with the public api yml updated](https://github.com/myHerbDev/canva-connect-api-starter-kit/actions/workflows/ts-client-check.yml/badge.svg)](https://github.com/myHerbDev/canva-connect-api-starter-kit/actions/workflows/ts-client-check.yml)
 name: Check TS SDK is up-to-date with the public api yml updated
 run-name: ${{ github.actor }} pushed a commit 🚀
 on:
